@@ -45,6 +45,6 @@ Each playlist can be opened in media players like VLC, MPV or Kodi.
 
 ## 👨‍💻 Author
 
-**Shivam Raj** ([@BetterCallShiv](https://github.com/BetterCallShiv))
-- Email: [bettercallshiv@gmail.com](mailto:bettercallshiv@gmail.com)
-- GitHub: [github.com/BetterCallShiv](https://github.com/BetterCallShiv)
+**NIKHIL** ([8nikhil](https://github.com/8nikhil))
+- Email: [8nikhil282005@gmail.com](mailto:8nikhil282005@gmail.com)
+- GitHub: [https://github.com/8nikhil](https://github.com/8nikhil)
