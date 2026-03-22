@@ -4,7 +4,7 @@ import re
 import json
 from urllib.parse import quote
 
-BASE_INDEX = "https://forthe.7thesinister91.workers.dev"
+BASE_INDEX = "https://nova.7thesinister91.workers.dev"
 ROOT_PATH = "/"
 VIDEO_EXT = (".mp4", ".mkv", ".avi", ".mov", ".webm")
 
