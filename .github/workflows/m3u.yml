@@ -5,6 +5,8 @@ permissions:
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
 
 concurrency:
   group: m3u-updater
@@ -39,4 +41,3 @@ jobs:
           git commit -m "Updated m3u Playlist" || exit 0
           git pull --rebase origin main
           git push origin main
-          
